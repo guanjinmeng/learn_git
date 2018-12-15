@@ -8,3 +8,9 @@ int main()
 int print () {
     printf("this is a demon !");  
 }
+int add (int x, int y) 
+{
+    int sum ;
+    sum  = 0 ;
+    sum = x + y ;
+}
